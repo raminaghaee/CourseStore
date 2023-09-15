@@ -1,0 +1,17 @@
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.deps.json
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.pdb
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.DAL.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.Model.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.DAL.pdb
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.Model.pdb
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.AssemblyReference.cache
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.AssemblyInfoInputs.cache
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.AssemblyInfo.cs
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.CoreCompileInputs.cache
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.CopyComplete
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\refint\CourseStore.BLL.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.pdb
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.BLL\obj\Debug\net6.0\ref\CourseStore.BLL.dll

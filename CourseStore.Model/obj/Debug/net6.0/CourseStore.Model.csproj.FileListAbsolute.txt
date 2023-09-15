@@ -1,0 +1,12 @@
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.deps.json
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.pdb
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.AssemblyReference.cache
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfoInputs.cache
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfo.cs
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.CoreCompileInputs.cache
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\refint\CourseStore.Model.dll
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.pdb
+L:\Pro .NET Ecosystem\Project\CourseStore\CourseStore.Model\obj\Debug\net6.0\ref\CourseStore.Model.dll

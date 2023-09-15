@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Courses\Commands\" />
+    <Folder Include="Courses\Queries\" />
+    <Folder Include="Frameworks\Commands\" />
+    <Folder Include="Frameworks\Queries\" />
+    <Folder Include="Orders\Commands\" />
+    <Folder Include="Orders\Queries\" />
+    <Folder Include="Teachers\Commands\" />
+    <Folder Include="Teachers\Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CourseStore.DAL\CourseStore.DAL.csproj" />
+    <ProjectReference Include="..\CourseStore.Model\CourseStore.Model.csproj" />
+  </ItemGroup>
+
+</Project>
